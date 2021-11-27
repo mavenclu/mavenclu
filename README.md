@@ -10,7 +10,7 @@
     * [backend](https://github.com/mavenclu/the-cookbook)
       * SpringBoot, REST APIs, JPA, Hibernate, Postgres, Docker, Swagger Docs, Auth0 (JWT), Lombok, Maven
     * [fontend](https://github.com/mavenclu/the-coockbook-frontend)
-     * WebClient calls APIs from backend, Auth0 (authentication), Thymeleaf, Maven 
+      * WebClient calls APIs from backend, Auth0 (authentication), Thymeleaf, Maven 
 
 
 
