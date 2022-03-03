@@ -13,7 +13,10 @@
       * WebClient calls APIs from backend, Auth0 (authentication), Thymeleaf, Maven 
 
 
+---
+Avatar attribution  
 
+<a href='https://www.freepik.com/vectors/people'>People vector created by pikisuperstar - www.freepik.com</a>
 
 <!---
 mavenclu/mavenclu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
